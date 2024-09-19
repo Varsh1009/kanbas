@@ -58,7 +58,7 @@ export default function Dashboard() {
             className="wd-dashboard-course-link"
             to="/Kanbas/Courses/1400/Home"
           >
-            <img src="/images/spanish.jpg"" alt="cpp" width={200} />
+            <img src="/images/spanish.jpg" alt="cpp" width={200} />
             <div>
               <h5>CS2222</h5>
               <p className="wd-dashboard-course-title">
