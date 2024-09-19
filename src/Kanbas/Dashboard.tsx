@@ -31,7 +31,7 @@ export default function Dashboard() {
             <div>
               <h5>CS2002 Spanish </h5>
               <p className="wd-dashboard-course-title">
-                Learn Spanish Language
+                Learn Languages
               </p>
               <button> Go </button>
             </div>
@@ -44,9 +44,9 @@ export default function Dashboard() {
           >
             <img src="/images/course.jpg" alt="aws" width={200} />
             <div>
-              <h5>CS4000 AWS</h5>
+              <h5>CS1111</h5>
               <p className="wd-dashboard-course-title">
-                Amazon Web Services 
+                XYZ 
               </p>
               <button> Go </button>
             </div>
@@ -60,9 +60,9 @@ export default function Dashboard() {
           >
             <img src="/images/c++.jpg" alt="cpp" width={200} />
             <div>
-              <h5>CS1400 C++</h5>
+              <h5>CS2222</h5>
               <p className="wd-dashboard-course-title">
-                C++ Development for beginners
+                COURSE2
               </p>
               <button> Go </button>
             </div>
@@ -75,9 +75,9 @@ export default function Dashboard() {
           >
             <img src="/images/1.jpg" alt="cpp" width={200} />
             <div>
-              <h5>CS2100 SQL </h5>
+              <h5>CS3333 </h5>
               <p className="wd-dashboard-course-title">
-                Structured Query Language
+                COURSE3
               </p>
               <button> Go </button>
             </div>
@@ -90,9 +90,9 @@ export default function Dashboard() {
           >
             <img src="/images/1.jpg" alt="ios" width={200} />
             <div>
-              <h5>CS2000 IOS Application Development</h5>
+              <h5>CS4444</h5>
               <p className="wd-dashboard-course-title">
-                IOS Developer Course
+                COURSE4
               </p>
               <button> Go </button>
             </div>
@@ -105,9 +105,9 @@ export default function Dashboard() {
           >
             <img src="/images/reactjs.jpg" alt="kotlin" width={200} />
             <div>
-              <h5>CS1100 Kotlin</h5>
+              <h5>CS5555</h5>
               <p className="wd-dashboard-course-title">
-                Android Development Course
+                COURSE5
               </p>
               <button> Go </button>
             </div>
@@ -120,9 +120,9 @@ export default function Dashboard() {
           >
             <img src="/images/reactjs.jpg" alt="java" width={200} />
             <div>
-              <h5>CS1000 Java</h5>
+              <h5>CS6666</h5>
               <p className="wd-dashboard-course-title">
-                Java - Object Oriented Programming Concepts
+                COURSE6
               </p>
               <button> Go </button>
             </div>
